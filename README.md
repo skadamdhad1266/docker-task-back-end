@@ -53,6 +53,8 @@ also use this credentials in application.properties.
 
 3) Download docker.
 
+4)  go to project directory and type mvn clean package -DskipTests(You need to install maven to run this command)
+
 4) just go to -->your-project-directory/src/main/docker from cmd and type docker-compose up
 
 5) Using credentials in docker-compose.yml login to postgres database.
