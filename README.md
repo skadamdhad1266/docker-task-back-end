@@ -1,7 +1,5 @@
 # docker-task-back-end
 
-# docker-back-end-task
-
 You can run the application in two ways
 
 1)Normal application run from command prompt
