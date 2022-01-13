@@ -14,7 +14,6 @@ The easiest way would be running using docker
 1) Clone the code
 
 2) Add the path in application.properties(src/main/resources) for archive file and destination folder to unzip archive.
-
             -app.archivePath = The path for zip file
             -app.destinationPath = Destination folder to unarchive
 
