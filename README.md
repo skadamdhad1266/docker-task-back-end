@@ -73,7 +73,7 @@ also use this credentials in application.properties.
     
  1)I have used java, spring boot and postgresql to create application. Since I had to persist data from XML in database I have used JaxB library from java which maps XML to Java Objects.
    
- 2)I have used this design such that if in future any mapping filed we had to change we just need to write small amount of code without affecting the other code. also many developers can work at same time in different modules using this technique.
+ 2)I have used this design such that if in future any mapping feiled we had to change we just need to write small amount of code without affecting the other code. also many developers can work at same time in different modules using this technique.
    
 3)also using this methodology I can easily persist data in database.
    
