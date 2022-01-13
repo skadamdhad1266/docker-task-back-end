@@ -13,7 +13,7 @@ The easiest way would be running using docker
 
 1) Clone the code
 
-2) Add the path in application.properties for archive file and destination folder to unzip archive.
+2) Add the path in application.properties(src/main/resources) for archive file and destination folder to unzip archive.
 
             -app.archivePath = The path for zip file
 
@@ -47,7 +47,7 @@ also use this credentials in application.properties.
 
 1) clone the code.
 
-2) Add the path for archive and destination folder to unzip archive
+2) Add the path in application.properties((src/main/resources)) for archive and destination folder to unzip archive 
      app.archivePath = The path for zip file
      app.destinationPath = Destination folder to unarchive
 
