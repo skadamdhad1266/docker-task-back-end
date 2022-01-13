@@ -16,7 +16,6 @@ The easiest way would be running using docker
 2) Add the path in application.properties(src/main/resources) for archive file and destination folder to unzip archive.
 
             -app.archivePath = The path for zip file
-
             -app.destinationPath = Destination folder to unarchive
 
 3) Apache maven installation and adding maven paths in environemnt variables. 
@@ -48,8 +47,8 @@ also use this credentials in application.properties.
 1) clone the code.
 
 2) Add the path in application.properties((src/main/resources)) for archive and destination folder to unzip archive 
-     app.archivePath = The path for zip file
-     app.destinationPath = Destination folder to unarchive
+     -app.archivePath = The path for zip file
+     -app.destinationPath = Destination folder to unarchive
 
 3) Download docker.
 
