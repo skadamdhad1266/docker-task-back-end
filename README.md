@@ -25,7 +25,7 @@ The easiest way would be running using docker
 
 5) put all the postgresql credentials in application.properties
 
-6) make sure to use host name as local host while running using this method
+6) make sure to use host name as localhost while running using this method
       - spring.datasource.url=jdbc:postgresql://localhost:5432/test   ----test is database name
       - spring.datasource.username= your_username
       - spring.datasource.password= your_password
