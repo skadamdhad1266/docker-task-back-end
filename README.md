@@ -19,7 +19,7 @@ The easiest way would be running using docker
 
             -app.destinationPath = Destination folder to unarchive
 
-3) Apache maven installation and adding maven paths in environemnt variables. if you dont have maven follow this steps 1)go to project directroy from cmd and type mvn spring-boot:run
+3) Apache maven installation and adding maven paths in environemnt variables. 
 
 4) postgresql database server download
 
